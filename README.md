@@ -1,12 +1,12 @@
-# Learn HTML & CSS
+# Learn HTML & CSS :
 
-1. [Download free eBook](https://codingwithbasir.com/download)
+1. [Download free eBook here](https://codingwithbasir.com/download)
 2. Code following projects
 3. Deliver projects to me ([How To](https://codingwithbasir.com/how-to-deliver-projects/))
 4. I review your code and give you feedback.
 5. Have questions? Email [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
 
-## Projects
+## Projects :
 
 - [Project A1 Introduction ](project-htmlcss-a1-introduction)
 
@@ -38,7 +38,7 @@
 
 - [Project N1 Bootstrap Utilites and Components](project-htmlcss-n1-bootstrap-utilities-components)
 
-## Want to get reviewed?
+## Want to get reviewed? 
 
 Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
 
